@@ -4,7 +4,7 @@ public class Main {
         // sout 탭
         System.out.println("Hi");
         System.out.println("Hi");
-        System.out.println("Hi");
+        System.out.println("Hello");
         System.out.println("Hi");
         System.out.println("Hi");
     }
