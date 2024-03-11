@@ -3,6 +3,10 @@ public class Main {
     public static void main(String[] args) {
         // sout 탭
         System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
     }
 }
 
